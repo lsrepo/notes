@@ -16,4 +16,12 @@ sequelize.define(
     }
   }
 )
+// wait
+// waited
+// .
+// .
+// .
+// wait
+// waited
+// Seeding finished
 ```
